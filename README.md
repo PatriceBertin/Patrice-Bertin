@@ -27,8 +27,8 @@ I'm a cybersecurity master's student passionate about open-source collaboration 
 
 
 ## Certifications
-| GOOGLE IT SUPPORT    |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZWFZH7XA8M28">Certificate</a>
-| INTRODUCTION TO CYBER SECURITY  |    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6DSLOJUMKF.png">Certificate</a>
+| GOOGLE IT SUPPORT    |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZWFZH7XA8M28">Certificate</a>|
+| INTRODUCTION TO CYBER SECURITY  |    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6DSLOJUMKF.png">Certificate</a>|
 ## Projects
 - Detection Lab
 - SOC Automation Project
