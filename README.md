@@ -31,8 +31,8 @@ As a cybersecurity master's graduate, I am passionate about open-source collabor
 ## Certifications
 | CompTIA Security +  |  <a href="https://github.com/PatriceBertin/CompTIA-">Certificate</a>| <br>
 | GOOGLE IT SUPPORT    |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZWFZH7XA8M28">Certificate</a>| <br>
-| GOOGLE CYBER SECURITY  |    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S7TZ65K2BFNZ">Certificate</a>| <br>
-| IBM CYBER SECURITY ANALYST  |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3Z06EE01FFS7">Certificate</a>| <br>
+| GOOGLE CYBERSECURITY  |    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S7TZ65K2BFNZ">Certificate</a>| <br>
+| IBM CYBERSECURITY ANALYST  |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3Z06EE01FFS7">Certificate</a>| <br>
 
 ## Projects
 - Detection Lab
