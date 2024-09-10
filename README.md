@@ -1,11 +1,11 @@
 # Hello, I'm PATRICE BERTIN
 <a href="https://www.linkedin.com/in/patrice-bertin-towa-529328170"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🔒 Cybersecurity Master's Student | Passionate about protecting digital assets | Enthusiastic about coding and ethical hacking | Seeking to contribute to open-source security projects | Constantly learning and exploring new cybersecurity techniques | Let's secure the digital world together! 🔒
+🔒 Cybersecurity | Passionate about protecting digital assets | Enthusiastic about coding and ethical hacking | Seeking to contribute to open-source security projects | Constantly learning and exploring new cybersecurity techniques | Let's secure the digital world together! 🔒
 
 ## Objective
 
-I'm a cybersecurity master's student passionate about open-source collaboration and enhancing cybersecurity practices. My GitHub objectives include contributing to open-source projects, showcasing my cybersecurity expertise, collaborating with peers, sharing insights through blogs, building a strong portfolio, staying updated with industry trends, networking, receiving feedback to improve, and contributing to software security.
+As a cybersecurity master's graduate, I am passionate about open-source collaboration and advancing cybersecurity practices. My GitHub objectives are to contribute to open-source projects, showcase my cybersecurity expertise, collaborate with peers, and share insights through technical blogs. I aim to build a robust portfolio, stay current with industry trends, network with like-minded professionals, receive constructive feedback to continuously improve, and contribute to the security of software systems.
 
 ## Skills
 
@@ -28,7 +28,9 @@ I'm a cybersecurity master's student passionate about open-source collaboration 
 
 ## Certifications
 | GOOGLE IT SUPPORT    |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZWFZH7XA8M28">Certificate</a>| <br>
-| GOOGLE CYBER SECURITY  |    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S7TZ65K2BFNZ">Certificate</a>|
+| GOOGLE CYBER SECURITY  |    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S7TZ65K2BFNZ">Certificate</a>| <br>
+| IBM CYBER SECURITY ANALYST  |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3Z06EE01FFS7">Certificate</a>| <br>
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
