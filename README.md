@@ -16,6 +16,8 @@ As a cybersecurity master's graduate, I am passionate about open-source collabor
 | Creating a company culture for security       | <a href="https://github.com/PatriceBertin/DESIGN-DOCUMENT">Design Document</a>|
 | IT Manager´s scope, goals, and risk assessment| <a href="https://github.com/PatriceBertin/REPORT.git">Report</a>|
 | Incident Report Analysis                      | <a href="https://github.com/PatriceBertin/Incident-Report-Analysis.git">Incident Report</a>|
+| Compliance Framework, Standards & Regulations | <a href="https://github.com/PatriceBertin/GRC-FRAMEWORK">GRC Analysis Study Case</a>|
+| Analysis Data Breach                          | <a href="https://github.com/PatriceBertin/MARIOTT-DATA-BREACH"> Mariott Data Breach</a>|
 | SIEM Implementation and Log Analysis          | Detection Lab|
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -27,6 +29,7 @@ As a cybersecurity master's graduate, I am passionate about open-source collabor
 
 
 ## Certifications
+| CompTIA Security +  |  <a href="https://github.com/PatriceBertin/CompTIA-">Certificate</a>| <br>
 | GOOGLE IT SUPPORT    |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZWFZH7XA8M28">Certificate</a>| <br>
 | GOOGLE CYBER SECURITY  |    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S7TZ65K2BFNZ">Certificate</a>| <br>
 | IBM CYBER SECURITY ANALYST  |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3Z06EE01FFS7">Certificate</a>| <br>
