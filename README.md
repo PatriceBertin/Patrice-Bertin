@@ -34,6 +34,7 @@ As a cybersecurity master's graduate, I am passionate about open-source collabor
 | GOOGLE CYBERSECURITY  |    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S7TZ65K2BFNZ">Certificate</a>| <br>
 | IBM CYBERSECURITY ANALYST  |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3Z06EE01FFS7">Certificate</a>| <br>
 | BASICS OF CISCO NETWORKING  |  <a href="https://www.coursera.org/account/accomplishments/certificate/XYJJR8LTQDNE">Certificate</a>| <br>
+| INTRODUCTION TO TECHNICAL SUPPORT  |  <a href="https://www.coursera.org/account/accomplishments/certificate/FB0QHWKBLF4G">Certificate</a>| <br>
 
 ## Projects
 - Detection Lab
