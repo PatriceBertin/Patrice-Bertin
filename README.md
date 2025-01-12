@@ -5,7 +5,8 @@
 
 ## Objective
 
-As a cybersecurity master's graduate, I am passionate about open-source collaboration and advancing cybersecurity practices. My GitHub objectives are to contribute to open-source projects, showcase my cybersecurity expertise, collaborate with peers, and share insights through technical blogs. I aim to build a robust portfolio, stay current with industry trends, network with like-minded professionals, receive constructive feedback to continuously improve, and contribute to the security of software systems.
+As a cybersecurity master's graduate, I am passionate about open-source collaboration and advancing cybersecurity practices. My GitHub objective is to contribute to the cybersecurity and IT community by developing innovative solutions, sharing knowledge, and collaborating on open-source projects. My goal is to leverage my expertise in threat detection, IT support, and IT consulting to create tools that enhance security, streamline processes, and promote technological advancement. Passionate about continuous learning, I aim to foster collaboration and contribute to projects that address real-world challenges in cybersecurity and IT infrastructure.  
+
 
 ## Skills
 
@@ -29,6 +30,7 @@ As a cybersecurity master's graduate, I am passionate about open-source collabor
 
 
 ## Certifications
+| SAP TECHNOLOGY CONSULTANT  |  <a href="https://coursera.org/verify/professional-cert/RRGUA8O9NNKC">Certificate</a>| <br>
 | CompTIA Security +  |  <a href="https://github.com/PatriceBertin/CompTIA-">Certificate</a>| <br>
 | GOOGLE IT SUPPORT    |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZWFZH7XA8M28">Certificate</a>| <br>
 | GOOGLE CYBERSECURITY  |    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S7TZ65K2BFNZ">Certificate</a>| <br>
