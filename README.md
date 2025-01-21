@@ -12,6 +12,9 @@ As a cybersecurity master's graduate, I am passionate about open-source collabor
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| SAP Business Challenge                        | <a href="https://github.com/PatriceBertin/SAP-Business-Challenge">SAP Solution</a>|
+| Understanding the Enterprise Systems Environment | <a href="https://github.com/PatriceBertin/Understanding-the-Enterprise-Systems-Environment">SAP Solution</a>|
+| Designing and Implementing SAP Solution       | <a href="https://github.com/PatriceBertin/Designing-and-Implementing-SAP-Solution">SAP Solution</a>|
 | Animal Trading Cards (UDACITY)                | <a href="https://github.com/PatriceBertin/Animal-Trading-cards">Project Web Development</a>|
 | Save the Titanic with PYTHON                  | <a href="https://github.com/PatriceBertin/SAVE-THE-TITANIC">Automate tasks with PYTHON</a>|
 | Creating a company culture for security       | <a href="https://github.com/PatriceBertin/DESIGN-DOCUMENT">Design Document</a>|
