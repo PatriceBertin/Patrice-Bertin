@@ -5,7 +5,7 @@
 
 ## Objective
 
-As a cybersecurity master's graduate, I am passionate about open-source collaboration and advancing cybersecurity practices. My GitHub objective is to contribute to the cybersecurity and IT community by developing innovative solutions, sharing knowledge, and collaborating on open-source projects. My goal is to leverage my expertise in threat detection, IT support, and IT consulting to create tools that enhance security, streamline processes, and promote technological advancement. Passionate about continuous learning, I aim to foster collaboration and contribute to projects that address real-world challenges in cybersecurity and IT infrastructure.  
+As a cybersecurity graduate, I am passionate about open-source collaboration and advancing cybersecurity practices. My GitHub objective is to contribute to the cybersecurity and IT community by developing innovative solutions, sharing knowledge, and collaborating on open-source projects. My goal is to leverage my expertise in threat detection, IT support, and IT consulting to create tools that enhance security, streamline processes, and promote technological advancement. Passionate about continuous learning, I aim to foster collaboration and contribute to projects that address real-world challenges in cybersecurity and IT infrastructure.  
 
 
 ## Skills
