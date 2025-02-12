@@ -9,7 +9,7 @@ As a cybersecurity graduate, I am passionate about open-source collaboration and
 
 
 ## Skills
-To understand the details of this project, please check out the attached documents. They provide insights into the project's objectives, implementation steps, and key findings.
+To understand the details of those projects, please check out the attached documents. They provide insights into the project's objectives, implementation steps, and key findings.
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
