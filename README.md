@@ -9,7 +9,6 @@ As a cybersecurity graduate, I am passionate about open-source collaboration and
 
 
 ## Skills
-To understand the details of those projects, please check out the attached documents. They provide insights into the project's objectives, implementation steps, and key findings.
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -42,9 +41,11 @@ To understand the details of those projects, please check out the attached docum
 | IBM CYBERSECURITY ANALYST  |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3Z06EE01FFS7">Certificate</a>| <br>
 | BASICS OF CISCO NETWORKING  |  <a href="https://www.coursera.org/account/accomplishments/certificate/XYJJR8LTQDNE">Certificate</a>| <br>
 | INTRODUCTION TO TECHNICAL SUPPORT  |  <a href="https://www.coursera.org/account/accomplishments/certificate/FB0QHWKBLF4G">Certificate</a>| <br>
-| AWS CLOUD TECHNICAL ESSENTIALS  |  <a href="https://cour sera.org/ver ify/AHIAUBVT54Y0">Certificate</a>| <br>
+| AWS CLOUD TECHNICAL ESSENTIALS  |  <a href="https://coursera.org/verify/AHIAUBVT54Y0">Certificate</a>| <br>
 | CYBERSECURITY OPERATIONS FUNDAMENTALS  |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SQZCP0V854ZA">Certificate</a>| <br>
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+To understand the details of those projects, please check out the attached documents. They provide insights into the project's objectives, implementation steps, and key findings.
