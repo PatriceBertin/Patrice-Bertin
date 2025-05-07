@@ -13,6 +13,7 @@ To understand the details of those projects, please check out the attached docum
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Enterprise Cybersecurity Architecture & Threat Mitigation                        | <a href="https://github.com/PatriceBertin/FinTrade-Security-Strategy">FinTrade Security Strategy</a>|
 | SAP Business Challenge                        | <a href="https://github.com/PatriceBertin/SAP-Business-Challenge">SAP Solution</a>|
 | Understanding the Enterprise Systems Environment | <a href="https://github.com/PatriceBertin/Understanding-the-Enterprise-Systems-Environment">SAP Solution</a>|
 | Designing and Implementing SAP Solution       | <a href="https://github.com/PatriceBertin/Designing-and-Implementing-SAP-Solution">SAP Solution</a>|
