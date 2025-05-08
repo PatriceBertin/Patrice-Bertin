@@ -45,6 +45,7 @@ As a cybersecurity graduate, I am passionate about open-source collaboration and
 | INTRODUCTION TO TECHNICAL SUPPORT  |  <a href="https://www.coursera.org/account/accomplishments/certificate/FB0QHWKBLF4G">Certificate</a>| <br>
 | AWS CLOUD TECHNICAL ESSENTIALS  |  <a href="https://coursera.org/verify/AHIAUBVT54Y0">Certificate</a>| <br>
 | CYBERSECURITY OPERATIONS FUNDAMENTALS  |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SQZCP0V854ZA">Certificate</a>| <br>
+| CCNA   | Loading 95% | <br>
 
 ## Projects
 - Detection Lab
