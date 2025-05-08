@@ -14,6 +14,7 @@ As a cybersecurity graduate, I am passionate about open-source collaboration and
 |-----------------------------------------------|----------------------------|
 | Enterprise Cybersecurity Architecture & Threat Mitigation                        | <a href="https://github.com/PatriceBertin/FinTrade-Security-Strategy">FinTrade Security Strategy</a>|
 | Cloud Security Architecture                        | <a href="https://github.com/PatriceBertin/-Enterprise-Cloud-Security-Architecture-Blueprint">Cloud Security</a>|
+| Cloud Incident Response & Troubleshooting                        | <a href="https://github.com/PatriceBertin/Cloud-Handbook">Cloud Troubleshooting</a>|
 | SAP Business Challenge                        | <a href="https://github.com/PatriceBertin/SAP-Business-Challenge">SAP Solution</a>|
 | Understanding the Enterprise Systems Environment | <a href="https://github.com/PatriceBertin/Understanding-the-Enterprise-Systems-Environment">SAP Solution</a>|
 | Designing and Implementing SAP Solution       | <a href="https://github.com/PatriceBertin/Designing-and-Implementing-SAP-Solution">SAP Solution</a>|
