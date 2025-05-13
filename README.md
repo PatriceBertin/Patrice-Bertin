@@ -1,6 +1,7 @@
 # Hello, I'm PATRICE BERTIN
 <a href="https://www.linkedin.com/in/patrice-bertin-towa-529328170"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+
 🔒 Cybersecurity | Passionate about protecting digital assets | Enthusiastic about coding and ethical hacking | Seeking to contribute to open-source security projects | Constantly learning and exploring new cybersecurity techniques | Let's secure the digital world together! 🔒
 
 ## Objective
@@ -9,6 +10,8 @@ As a cybersecurity graduate, I am passionate about open-source collaboration and
 
 
 ## Skills
+
+To understand the details of those projects, please check out the attached documents. They provide insights into the project's objectives, implementation steps, and key findings.
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -55,4 +58,3 @@ As a cybersecurity graduate, I am passionate about open-source collaboration and
 - Detection Lab
 - SOC Automation Project
 
-To understand the details of those projects, please check out the attached documents. They provide insights into the project's objectives, implementation steps, and key findings.
