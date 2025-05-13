@@ -12,6 +12,10 @@ As a cybersecurity graduate, I am passionate about open-source collaboration and
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| A week in the life of a SysAdmin at BMW                        | <a href="https://github.com/PatriceBertin/IT-SysAdmin">System Administrator</a>|
+| A week in the life of a Support Engineer at BMW                        | <a href="https://github.com/PatriceBertin/SupportEngineer">IT Support Engineer</a>|
+| A week in the life of a Cybersecurity Analyst at BMW                       | <a href="https://github.com/PatriceBertin/Security-Analyst">Security Analyst</a>|
+| A week in the life of a Cybersecurity Consultant at Deloitte                       | <a href="https://github.com/PatriceBertin/Security-Consultant">Security Consultant</a>|
 | Enterprise Cybersecurity Architecture & Threat Mitigation                        | <a href="https://github.com/PatriceBertin/FinTrade-Security-Strategy">FinTrade Security Strategy</a>|
 | Cloud Security Architecture                        | <a href="https://github.com/PatriceBertin/-Enterprise-Cloud-Security-Architecture-Blueprint">Cloud Security</a>|
 | Cloud Incident Response & Troubleshooting                        | <a href="https://github.com/PatriceBertin/Cloud-Handbook">Cloud Troubleshooting</a>|
