@@ -15,6 +15,7 @@ To understand the details of those projects, please check out the attached docum
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| A week in the life of a System Development Engineer at AWS                        | <a href="https://github.com/PatriceBertin/System-DEVOPS">System Development Engineer</a>|
 | A week in the life of a SysAdmin at BMW                        | <a href="https://github.com/PatriceBertin/IT-SysAdmin">System Administrator</a>|
 | A week in the life of a Support Engineer at BMW                        | <a href="https://github.com/PatriceBertin/SupportEngineer">IT Support Engineer</a>|
 | A week in the life of a Cybersecurity Analyst at BMW                       | <a href="https://github.com/PatriceBertin/Security-Analyst">Security Analyst</a>|
