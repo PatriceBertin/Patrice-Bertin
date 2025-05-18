@@ -36,6 +36,8 @@ To understand the details of those projects, please check out the attached docum
 | Self-initiated Projects                                         |  Project         |
 |-----------------------------------------------|----------------------------|
 | A week in the life of an SAP Consultant                       | <a href="https://github.com/PatriceBertin/SAP-S4HANA#">SAP</a>|
+| Enterprise IT Troubleshooting                       | <a href="https://github.com/PatriceBertin/IT-Troubleshooting">Troubleshooting</a>|
+| Cyber Defense Implementation                       | <a href="https://github.com/PatriceBertin/Cyber-Defense">Financial Institution</a>|
 | A week in the life of a System Development Engineer at AWS                        | <a href="https://github.com/PatriceBertin/System-DEVOPS">System Development Engineer</a>|
 | A week in the life of a SysAdmin at BMW                        | <a href="https://github.com/PatriceBertin/IT-SysAdmin">System Administrator</a>|
 | A week in the life of a Support Engineer at BMW                        | <a href="https://github.com/PatriceBertin/SupportEngineer">IT Support Engineer</a>|
