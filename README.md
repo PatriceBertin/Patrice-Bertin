@@ -6,6 +6,7 @@
 
 ## Objective
 
+
 As a cybersecurity graduate, I am passionate about open-source collaboration and advancing cybersecurity practices. My GitHub objective is to contribute to the cybersecurity and IT community by developing innovative solutions, sharing knowledge, and collaborating on open-source projects. My goal is to leverage my expertise in threat detection, IT support, and IT consulting to create tools that enhance security, streamline processes, and promote technological advancement. Passionate about continuous learning, I aim to foster collaboration and contribute to projects that address real-world challenges in cybersecurity and IT infrastructure.  
 
 
@@ -15,14 +16,6 @@ To understand the details of those projects, please check out the attached docum
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| A week in the life of an SAP Consultant                       | <a href="https://github.com/PatriceBertin/SAP-S4HANA#">SAP</a>|
-| A week in the life of a System Development Engineer at AWS                        | <a href="https://github.com/PatriceBertin/System-DEVOPS">System Development Engineer</a>|
-| A week in the life of a SysAdmin at BMW                        | <a href="https://github.com/PatriceBertin/IT-SysAdmin">System Administrator</a>|
-| A week in the life of a Support Engineer at BMW                        | <a href="https://github.com/PatriceBertin/SupportEngineer">IT Support Engineer</a>|
-| A week in the life of a Cybersecurity Analyst at BMW                       | <a href="https://github.com/PatriceBertin/Security-Analyst">Security Analyst</a>|
-| A week in the life of a Cybersecurity Consultant at Deloitte                       | <a href="https://github.com/PatriceBertin/Security-Consultant">Security Consultant</a>|
-| Enterprise Cybersecurity Architecture & Threat Mitigation                        | <a href="https://github.com/PatriceBertin/FinTrade-Security-Strategy">FinTrade Security Strategy</a>|
-| Cloud Security Architecture                        | <a href="https://github.com/PatriceBertin/-Enterprise-Cloud-Security-Architecture-Blueprint">Cloud Security</a>|
 | Cloud Incident Response & Troubleshooting                        | <a href="https://github.com/PatriceBertin/Cloud-Handbook">Cloud Troubleshooting</a>|
 | SAP Business Challenge                        | <a href="https://github.com/PatriceBertin/SAP-Business-Challenge">SAP Solution</a>|
 | Understanding the Enterprise Systems Environment | <a href="https://github.com/PatriceBertin/Understanding-the-Enterprise-Systems-Environment">SAP Solution</a>|
@@ -40,10 +33,16 @@ To understand the details of those projects, please check out the attached docum
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
 
-
-| Skills                                         | Associated Project         |
+| Self-initiated Projects                                         |  Project         |
 |-----------------------------------------------|----------------------------|
-
+| A week in the life of an SAP Consultant                       | <a href="https://github.com/PatriceBertin/SAP-S4HANA#">SAP</a>|
+| A week in the life of a System Development Engineer at AWS                        | <a href="https://github.com/PatriceBertin/System-DEVOPS">System Development Engineer</a>|
+| A week in the life of a SysAdmin at BMW                        | <a href="https://github.com/PatriceBertin/IT-SysAdmin">System Administrator</a>|
+| A week in the life of a Support Engineer at BMW                        | <a href="https://github.com/PatriceBertin/SupportEngineer">IT Support Engineer</a>|
+| A week in the life of a Cybersecurity Analyst at BMW                       | <a href="https://github.com/PatriceBertin/Security-Analyst">Security Analyst</a>|
+| A week in the life of a Cybersecurity Consultant at Deloitte                       | <a href="https://github.com/PatriceBertin/Security-Consultant">Security Consultant</a>|
+| Enterprise Cybersecurity Architecture & Threat Mitigation                        | <a href="https://github.com/PatriceBertin/FinTrade-Security-Strategy">FinTrade Security Strategy</a>|
+| Cloud Security Architecture                        | <a href="https://github.com/PatriceBertin/-Enterprise-Cloud-Security-Architecture-Blueprint">Cloud Security</a>|
 
 ## Certifications
 | SAP TECHNOLOGY CONSULTANT  |  <a href="https://coursera.org/verify/professional-cert/RRGUA8O9NNKC">Certificate</a>| <br>
