@@ -41,7 +41,8 @@ To understand the details of those projects, please check out the attached docum
 
 
 
-
+| Skills                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
 
 
 ## Certifications
